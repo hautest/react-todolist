@@ -1,15 +1,15 @@
 import React  from 'react';
 import './App.css';
-import Header from './components/Header';
+import  InputAndButtonBox from './components/input and button box';
+import  TodolistDisplay  from './components/todolist display';
 
 function App() {
 
   return (
- <>
-  <h1>TO Do List</h1>
-  <Header></Header>
-  
- </>
+<>
+<h2>To Do List</h2>
+<InputAndButtonBox/>
+</>
   );
 }
 
