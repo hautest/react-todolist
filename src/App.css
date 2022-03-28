@@ -1,0 +1,55 @@
+.lineOn {
+  text-decoration: line-through;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.listContentBox {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  border-radius: 10px;
+  width: 300px;
+  min-height: 270px;
+}
+
+.listXButton {
+  color: rgb(158, 219, 255);
+  float: right;
+  background-color: white;
+  border: 0;
+}
+
+.inputButton {
+  background-color: white;
+  border-radius: 10px;
+  border: solid black 1px;
+}
+
+body {
+  background-color: rgb(158, 219, 255);
+}
+
+li {
+  list-style-type: square;
+  color: rgb(158, 219, 255);
+}
+
+span {
+  color: black;
+}
+
+input {
+  background-color: white;
+  border-radius: 10px;
+  border: solid black 1px;
+}
