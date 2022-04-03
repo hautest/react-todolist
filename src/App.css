@@ -1,5 +1,5 @@
 .lineOn {
-  text-decoration: rgb(158, 219, 255) line-through;
+  text-decoration: 3px rgb(158, 219, 255) line-through;
 }
 
 form {
